@@ -1,1 +1,4 @@
-theme: jekyll-theme-Mediumish
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: wowthemesnet/mediumish-theme-jekyll
